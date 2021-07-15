@@ -24,9 +24,7 @@ Using python and pandas, create a summary DataFrame of the ride-sharing data by 
 (5) **Average Fare per Driver -**  The average fare per driver was much lower in **Urban** cities when compared to both **Rural** and **Suburban** cities.  It is less than half and less than a third of the average fare per driver in suburban and rural cities respectively.
 
 ### Weekly Fares by City Type (Early 2019)
-<p align="center">
-  <![image](https://user-images.githubusercontent.com/84994321/125864992-59500dc8-d8bf-470c-a743-96850bec6f5a.png)>
-</p>
+![image](https://user-images.githubusercontent.com/84994321/125865278-32c75cd2-be79-4cda-90d8-64d9d562b4a4.png)
 
 ## Summary
 Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
