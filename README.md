@@ -25,7 +25,7 @@ Using python and pandas, create a summary DataFrame of the ride-sharing data by 
 
 ### Weekly Fares by City Type (Early 2019)
 <p align="center">
-  ![image](https://user-images.githubusercontent.com/84994321/125864992-59500dc8-d8bf-470c-a743-96850bec6f5a.png)
+  <![image](https://user-images.githubusercontent.com/84994321/125864992-59500dc8-d8bf-470c-a743-96850bec6f5a.png)>
 </p>
 
 ## Summary
