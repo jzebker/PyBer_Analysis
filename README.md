@@ -13,7 +13,7 @@ Using python and pandas, create a summary DataFrame of the ride-sharing data by 
 |    Suburban |           625 |         490 |    $19,356.33 |                  $30.97 | $39.50 |
 |       Urban |         1,625 |       2,405 |    $39,854.38 |                  $24.53 | $16.57 |
 
-(1) **Total Rides -** PyBer was most frequently used in **Urban** cities.  More than 2/3 of the total rides were in urban cities.
+(1) **Total Rides -** PyBer was most frequently used in **Urban** cities.  Almost 70% of total rides were in urban cities.
 
 (2) **Total Drivers -** Over 80% of the drivers operated in **Urban** cities.  Only about 16% and about 3% were in suburban and rural cities respectively.
 
