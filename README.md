@@ -28,7 +28,7 @@ Using python and pandas, create a summary DataFrame of the ride-sharing data by 
   <img src="https://user-images.githubusercontent.com/84994321/125866003-cabc100a-4735-40e9-9525-6b4cb3406388.png">
 </p>
 
-(6) **Total Weekly Fares -** Per the graph above, total weekly fares remained fairly constant throughout the time period observed.  They were consistently higher in **Urban** cities vs either rural or suburban cities.
+(6) **Total Weekly Fares -** Per the graph above, total weekly fares remained fairly constant throughout the time period observed.  They were consistently higher in **Urban** cities vs either rural or suburban cities.  The above graph does not contain data for the last week listed in the data because it was not a full week.
 
 ## Summary
 Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
