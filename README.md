@@ -33,7 +33,7 @@ Using python and pandas, create a summary DataFrame of the ride-sharing data by 
 ## Summary
 Recommendations from the data:
 
-(1)  In the absence of information regarding overall demand (or possible unfulfilled demand), operations in urban cities should be expanded.  Most of the total fares generated have consistently been from urban cities so this is where the majority of efforts should be focused.
+(1)  In the absence of information regarding overall demand (or possible unfulfilled demand) or overhead, operations in urban cities should be expanded.  Most of the total fares generated have consistently been from urban cities so this is where the majority of efforts should be focused.
 
 (2)  There are more total drivers than total rides in urban cities while this is not the case with either rural or suburban cities.  This directly affects the calculated average fare per driver and seems to identify a large percentage of drivers in urban cities that have never driven.  Further analysis is needed to figure out why this disparity exists since the given dataset does not link the ride with the driver that drove it.
 
