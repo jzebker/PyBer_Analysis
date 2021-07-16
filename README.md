@@ -31,4 +31,7 @@ Using python and pandas, create a summary DataFrame of the ride-sharing data by 
 (6) **Total Weekly Fares -** Per the graph above, total weekly fares remained fairly constant throughout the time period observed.  They were consistently higher in **Urban** cities vs either rural or suburban cities.  The above graph does not contain data for the last week listed in the data because it was not a full week.
 
 ## Summary
-Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+Recommendations from the data:
+(1)  In the absence of information concerning overall demand (or possible unfulfilled demand), operations in urban cities should be expanded.  Most of the total fares generated have consistently been from urban cities so this is where the majority of efforts should be focused.
+(2)  There are more total drivers than total rides in urban cities while this is not the case with either rural or suburban cities.  This directly affects the calculated average fare per driver and seems to identify a large percentage of drivers in urban cities that have never driven.  Further analysis is needed to figure out why this disparity exists since the given dataset does not link the ride with the driver that drove it.
+(3)  
