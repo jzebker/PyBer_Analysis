@@ -37,4 +37,4 @@ Recommendations from the data:
 
 (2)  There are more total drivers than total rides in urban cities while this is not the case with either rural or suburban cities.  This directly affects the calculated average fare per driver and seems to identify a large percentage of drivers in urban cities that have never driven.  Further analysis is needed to figure out why this disparity exists since the given dataset does not link the ride with the driver that drove it.
 
-(3)  This data can also aid in recruitment for new drivers or serve as insight for current drivers.  The average fare per driver is over three times higher in rural cities and over two times higher in suburban cities than in urban cities.
+(3)  This data can also aid in recruitment for new drivers or serve as insight for current drivers.  The average fare per driver is over three times higher in rural cities and over two times higher in suburban cities than in urban cities.  Looking at the weekly data, this was steadily the case for early 2019.
